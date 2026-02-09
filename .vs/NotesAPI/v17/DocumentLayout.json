@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CCF8A700-80E8-4D00-B887-C03BB9A3D7DA}|NotesAPI\\NotesAPI.csproj|c:\\users\\kraji\\source\\repos\\notesapi\\notesapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF8A700-80E8-4D00-B887-C03BB9A3D7DA}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCF8A700-80E8-4D00-B887-C03BB9A3D7DA}|NotesAPI\\NotesAPI.csproj|c:\\users\\kraji\\source\\repos\\notesapi\\notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF8A700-80E8-4D00-B887-C03BB9A3D7DA}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NotesAPI\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:36:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\Models.cs",
               "RelativeDocumentMoniker": "NotesAPI\\Models.cs",
@@ -38,34 +55,32 @@
               "RelativeToolTip": "NotesAPI\\Models.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T23:18:33.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T23:18:33.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\Program.cs",
               "RelativeDocumentMoniker": "NotesAPI\\Program.cs",
               "ToolTip": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\Program.cs",
               "RelativeToolTip": "NotesAPI\\Program.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T23:10:37.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NotesAPI",
+              "DocumentIndex": 3,
+              "Title": "NotesAPI.csproj",
               "DocumentMoniker": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\NotesAPI.csproj",
               "RelativeDocumentMoniker": "NotesAPI\\NotesAPI.csproj",
               "ToolTip": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\NotesAPI.csproj",
               "RelativeToolTip": "NotesAPI\\NotesAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-09T23:10:30.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T23:10:30.828Z"
             }
           ]
         }

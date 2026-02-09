@@ -42,3 +42,4 @@ C:\Users\kraji\source\repos\NotesAPI\NotesAPI\obj\Debug\net8.0\refint\NotesAPI.d
 C:\Users\kraji\source\repos\NotesAPI\NotesAPI\obj\Debug\net8.0\NotesAPI.pdb
 C:\Users\kraji\source\repos\NotesAPI\NotesAPI\obj\Debug\net8.0\NotesAPI.genruntimeconfig.cache
 C:\Users\kraji\source\repos\NotesAPI\NotesAPI\obj\Debug\net8.0\ref\NotesAPI.dll
+C:\Users\kraji\source\repos\NotesAPI\NotesAPI\obj\Debug\net8.0\NotesAPI.sourcelink.json
