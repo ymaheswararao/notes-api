@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF8A700-80E8-4D00-B887-C03BB9A3D7DA}|NotesAPI\\NotesAPI.csproj|c:\\users\\kraji\\source\\repos\\notesapi\\notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF8A700-80E8-4D00-B887-C03BB9A3D7DA}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF8A700-80E8-4D00-B887-C03BB9A3D7DA}|NotesAPI\\NotesAPI.csproj|c:\\users\\kraji\\source\\repos\\notesapi\\notesapi\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF8A700-80E8-4D00-B887-C03BB9A3D7DA}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF8A700-80E8-4D00-B887-C03BB9A3D7DA}|NotesAPI\\NotesAPI.csproj|c:\\users\\kraji\\source\\repos\\notesapi\\notesapi\\notesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CCF8A700-80E8-4D00-B887-C03BB9A3D7DA}|NotesAPI\\NotesAPI.csproj|solutionrelative:notesapi\\notesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\Models.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Models.cs",
+              "ToolTip": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\Models.cs",
+              "RelativeToolTip": "NotesAPI\\Models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:18:33.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NotesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\Program.cs",
+              "RelativeToolTip": "NotesAPI\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T23:10:37.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesAPI",
+              "DocumentMoniker": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\NotesAPI.csproj",
+              "RelativeDocumentMoniker": "NotesAPI\\NotesAPI.csproj",
+              "ToolTip": "C:\\Users\\kraji\\source\\repos\\NotesAPI\\NotesAPI\\NotesAPI.csproj",
+              "RelativeToolTip": "NotesAPI\\NotesAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-09T23:10:30.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
